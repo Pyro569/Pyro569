@@ -3,4 +3,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyro569&theme=dark)](https://github.com/Pyro569/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Concord-Consortium&theme=dark)](https://github.com/Concord-Consortium/github-readme-stats)
+
 I'm also a metal head
