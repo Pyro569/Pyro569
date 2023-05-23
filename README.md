@@ -1,5 +1,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pyro569&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyro569)](https://github.com/anuraghazra/github-readme-stats)
 <img height=200 src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=pyro569&include_orgs=true&layout=compact&langs_count=15&hide_border=1&theme=tokyonight&hide=html,javascript,gdscript,css,gap" alt="Pyro's Language stats" />
-<img src="https://camo.githubusercontent.com/0e5375dd4e4e1389603578d1a5bfa8324fe66e0fd8dfc104c8dda88e3ae7a677/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d746f6b796f6e69676874" alt="tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api?username=pyro569&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=tokyonight" style="max-width: 100%;">
 I'm also a metal head
