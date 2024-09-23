@@ -21,6 +21,11 @@
 
 ## Cool People You Should Check Out  
 - ![Hidude562](https://github.com/hidude562)  
+
+## PC/Development Environment  
+- Main Dev PC Specs: RTX 3060 12GB, 32GB DDR4 2667Mhz RAM, Intel i5-12400, 500GB NVMe SSD, 1TB Sata 3 SSD, 1TB Sata 3 HDD, Arch Linux OS  
+- Backup Dev PC Specs: AMD Ryzen 7 5800X CPU, GTX 1060 3GB, 16GB DDR4 2667MHz RAM, 500GB Sata 3 HDD, 8TB Sata 3 HDD, Arch Linux OS  
+- Dev Environment: Mostly VSCode using Vim plugin, Only IntelliJ for writing in Java and the occasional CLion for C/C++  
   
 ## Other Stuff  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kgw5kogyyqo3s7t4hnb482uvz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)  
