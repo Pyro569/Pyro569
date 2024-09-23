@@ -3,9 +3,9 @@
 ## Current Project - MetricVRSE  
   
 ## Notable Projects  
-- DawnLang - Bad Interpreted Programming Language  
-- Chip-8 Emulator - A Bad CHIP-8 Emulator Written in C and OpenGL  
-- Timewinder - A video game made for Technology Student Association
+- DawnLang - Bad interpreted programming Language  
+- Chip-8 Emulator - A Bad CHIP-8 emulator written in C and OpenGL  
+- Timewinder - A bad video game made for Technology Student Association video game design event
 
 ## Favorite Languages  
 - C  
