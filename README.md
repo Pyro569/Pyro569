@@ -30,7 +30,7 @@
 ## Other Stuff  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kgw5kogyyqo3s7t4hnb482uvz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)  
 I'm a metal head  
-  
+Hit me up if you be getting Knocked Loose in Kentucky  
   
 ## Cool Github Analytics  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pyro569&theme=tokyonight&background=000000&include_orgs=true)](https://git.io/streak-stats)  
